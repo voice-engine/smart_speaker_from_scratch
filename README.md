@@ -5,24 +5,24 @@ The project is about to make an affordable, open source smart speaker. It should
 
 ### To Do
 - Hardware
-  [x] prototype #1 - Rasbperry Pi + ReSpeaker 4 Mic Linear Array + 45mm Speaker
-  [ ] prototype #2 (on-going)
-  [ ] ...
+  - [x] prototype #1 - Rasbperry Pi + ReSpeaker 4 Mic Linear Array + 45mm Speaker
+  - [ ] prototype #2 (on-going)
+  - [ ] ...
 
 - Software
-  [ ] AEC (Acoustic Echo Cancellation), See [ec](https://github.com/voice-engine/ec)
-  [ ] ...
+  - [ ] AEC (Acoustic Echo Cancellation), See [ec](https://github.com/voice-engine/ec)
+  - [ ] ...
 
-- Mechanic
-  [x] prototype #1 - paper case
-  [ ] prototype #2 - wood case, made with [Boxes](https://github.com/florianfesti/boxes)
-  [ ] ...
+- Design
+  - [x] prototype #1 - paper case
+  - [ ] prototype #2 - wood case, made with [Boxes](https://github.com/florianfesti/boxes)
+  - [ ] ...
 
 - Document
-  [x] [Audio on Linux](https://github.com/voice-engine/make-a-smart-speaker/issues/5)
-  [ ] Steps to make prototype #1
-  [ ] Introduce how AEC works
-  [ ] ...
+  - [x] [Audio on Linux](https://github.com/voice-engine/make-a-smart-speaker/issues/5)
+  - [ ] Steps to make prototype #1
+  - [ ] Introduce how AEC works
+  - [ ] ...
 
 
 ### Why
