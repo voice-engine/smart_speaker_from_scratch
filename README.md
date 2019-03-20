@@ -4,7 +4,7 @@ Smart Speaker from Scratch
 The project is about to make an affordable, open source smart speaker. It should be able to run Amazon Alexa, Google Assistant, MyCroft, Home Assistant, Mopidy and etc.
 
 ![](/img/prototype1.png)
-See the detail at [hardware/prototype_1](/hardware/prototype_1)
+See the detail at [hardware/prototype-1](/hardware/prototype-1)
 
 ### To Do
 - Hardware
