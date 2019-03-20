@@ -3,9 +3,12 @@ Smart Speaker from Scratch
 
 The project is about to make an affordable, open source smart speaker. It should be able to run Amazon Alexa, Google Assistant, MyCroft, Home Assistant, Mopidy and etc.
 
+![](/img/prototype1.png)
+See the detail at [hardware/prototype_1](/hardware/prototype_1)
+
 ### To Do
 - Hardware
-  - [x] prototype #1 - Rasbperry Pi + ReSpeaker 4 Mic Linear Array + 45mm Speaker
+  - [x] [prototype #1 - Rasbperry Pi + ReSpeaker 4 Mic Linear Array + 45mm Speaker](/hardware/prototype_1)
   - [ ] prototype #2 (on-going)
   - [ ] ...
 
@@ -19,7 +22,7 @@ The project is about to make an affordable, open source smart speaker. It should
   - [ ] ...
 
 - Document
-  - [x] [Audio on Linux](https://github.com/voice-engine/make-a-smart-speaker/issues/5)
+  - [x] [Record & Play Audio on Linux](https://github.com/voice-engine/make-a-smart-speaker/issues/5)
   - [ ] Steps to make prototype #1
   - [ ] Introduce how AEC works
   - [ ] ...
