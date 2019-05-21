@@ -1,6 +1,7 @@
 The Hard Way To Get Started with VOICEN Kit
 ===========================================
 
+![](/img/speaker_oblique_view.png)
 
 ## Hardware
 + VOICEN Kit (Nanopi Neo Air, VOICEN Linear 4 Mic Array, Nano AMP)
