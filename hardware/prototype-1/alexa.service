@@ -5,7 +5,7 @@ After=alsa-restore.service
 [Service]
 Type=simple
 WorkingDirectory=/home/pi
-ExecStart=python /home/pi/alexa.py
+ExecStart=/usr/bin/python /home/pi/alexa.py
 User=pi
  
 [Install]
