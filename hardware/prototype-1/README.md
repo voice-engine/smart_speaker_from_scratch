@@ -103,7 +103,7 @@ Raspberry Pi and ReSpeaker 4 Mic Linear Array can be found at Seeed Studio, and 
    1. the default web browser has some compatible issues, so we need to replace it. open the Chromium web browser and set it as the default web
    2. run `alexa-auth`
    3. open http://127.0.0.1:3000 in the Chromium
-   4. click `amazon alexa` and login alexa voice service your amazon account
+   4. click `amazon alexa` and login alexa voice service with your amazon account
 
 10. Run Alexa as a voice assistant
 
@@ -117,7 +117,7 @@ Raspberry Pi and ReSpeaker 4 Mic Linear Array can be found at Seeed Studio, and 
 
     ```
     wget https://github.com/voice-engine/smart_speaker_from_scratch/raw/master/hardware/prototype-1/alexa.service
-    sudo mv alexa.service /etc/systemd/system
+    sudo cp alexa.service /etc/systemd/system
     sudo systemctl enable alexa.service
     sudo systemctl start alexa.service
     ```
