@@ -100,25 +100,25 @@ Raspberry Pi and ReSpeaker 4 Mic Linear Array can be found at Seeed Studio, and 
 9. At the remote desktop window, setup Amazon Alexa Voice Service
    
    
-   a. the default web browser has some compatible issues, so we need to replace it. open the Chromium web browser and set it as the default web
-   b. run `alexa-auth`
-   c. open http://127.0.0.1:3000 in the Chromium
-   d. click `amazon alexa` and login alexa voice service your amazon account
+   1. the default web browser has some compatible issues, so we need to replace it. open the Chromium web browser and set it as the default web
+   2. run `alexa-auth`
+   3. open http://127.0.0.1:3000 in the Chromium
+   4. click `amazon alexa` and login alexa voice service your amazon account
 
 10. Run Alexa as a voice assistant
 
-   ```
-   cd
-   wget https://github.com/voice-engine/smart_speaker_from_scratch/raw/master/hardware/prototype-1/alexa.py
-   python alexa.py
-   ```
+    ```
+    cd
+    wget https://github.com/voice-engine/smart_speaker_from_scratch/raw/master/hardware/prototype-1/alexa.py
+    python alexa.py
+    ```
 
 11. Make the python script autorun
 
-   ```
-   wget https://github.com/voice-engine/smart_speaker_from_scratch/raw/master/hardware/prototype-1/alexa.service
-   sudo mv alexa.service /etc/systemd/system
-   sudo systemctl enable alexa.service
-   sudo systemctl start alexa.service
-   ```
+    ```
+    wget https://github.com/voice-engine/smart_speaker_from_scratch/raw/master/hardware/prototype-1/alexa.service
+    sudo mv alexa.service /etc/systemd/system
+    sudo systemctl enable alexa.service
+    sudo systemctl start alexa.service
+    ```
  
